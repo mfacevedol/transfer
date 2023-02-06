@@ -14,6 +14,7 @@ Acevedo-RTEM-LabManual-figs10.zip
 
 Acevedo-RTEM-LabManual-figs11-14.zip
 
+Small edits made to preface of textbook and Acevedo-RTEM-2ndEd-docs.zip was updated:
 
 
 Updates 01/27/23
