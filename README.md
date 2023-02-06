@@ -1,5 +1,21 @@
 # transfer to CRC
 
+Updates 02/06/23
+
+Lab Manual completed and packaged in several archives
+
+Acevedo-RTEM-LabManual-docs.zip
+
+Acevedo-RTEM-LabManual-figs1-5.zip
+
+Acevedo-RTEM-LabManual-figs2-9.zip
+
+Acevedo-RTEM-LabManual-figs10.zip
+
+Acevedo-RTEM-LabManual-figs11-14.zip
+
+
+
 Updates 01/27/23
 
 Archive Acevedo-RTEM-2ndEd-docs.zip was updated: All chapter word files were updated to include insert points for figures and left/right figures annotations, and BCC back cover material was edited and added to archive
